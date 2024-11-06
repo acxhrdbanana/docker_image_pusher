@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 pytorch:1.4-cuda10.1-cudnn7-devel
+python:alpine3.19
